@@ -11,8 +11,8 @@
     "precache-manifest.0e1c5c2f115254dc55c8f9b2b7fc76ed.js": "/precache-manifest.0e1c5c2f115254dc55c8f9b2b7fc76ed.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.0f512dd2.chunk.css.map": "/static/css/main.0f512dd2.chunk.css.map",
-    "static/media/cueball.png": "/static/media/cueball.62cee232.png",
-    "static/media/target-view.png": "/static/media/target-view.8dfa6cf4.png",
-    "static/media/top-view.png": "/static/media/top-view.83965708.png"
+    "static/media/cueball.png": "static/media/cueball.62cee232.png",
+    "static/media/target-view.png": "static/media/target-view.8dfa6cf4.png",
+    "static/media/top-view.png": "static/media/top-view.83965708.png"
   }
 }
