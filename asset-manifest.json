@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.97e2febb.chunk.css",
-    "main.js": "/static/js/main.dfcd5adf.chunk.js",
+    "main.css": "/static/css/main.35fbf76b.chunk.css",
+    "main.js": "/static/js/main.ab9e057b.chunk.js",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "static/js/2.fa653ce4.chunk.js": "/static/js/2.fa653ce4.chunk.js",
+    "static/js/2.ecc4a616.chunk.js": "/static/js/2.ecc4a616.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.64e26b5ed51df2a24d5f993c140bfef4.js": "/precache-manifest.64e26b5ed51df2a24d5f993c140bfef4.js",
-    "service-worker.js": "/service-worker.js",
-    "static/media/cueball.png": "/static/media/cueball.62cee232.png"
+    "precache-manifest.b5f725eaba4bf4519e60cec6e53e7d97.js": "/precache-manifest.b5f725eaba4bf4519e60cec6e53e7d97.js",
+    "service-worker.js": "/service-worker.js"
   }
 }
